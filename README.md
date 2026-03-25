@@ -22,3 +22,8 @@ Developed an interactive Excel dashboard to analyze Vrinda Store’s sales data 
 * Amazon,Flipkart and Myntra channels are max contributing (80%)
 * Men are less buy to compared to women (65%)
 * Maharashtra,karnataka and uttar pradesh are max contributing (80%)
+
+# Excel Dashboard
+<img width="1285" height="634" alt="Screenshot 2026-03-25 212214" src="https://github.com/user-attachments/assets/a47627fb-3d37-4ef7-8549-216c12f3d3e3" />
+
+* you can interact with this dashboard from https://github.com/ripambiswas19-del/Vrinda-Store-Excel-Dashboard-/blob/main/Vrinda%20Store%20Excel%20Dashboard(1).xlsx
